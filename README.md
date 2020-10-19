@@ -1,2 +1,2 @@
-# QuantzLab-github-website
-Making a github site for QuantzLab
+# QuantzLabWebsite
+Making a github and HTML site for QuantzLab
